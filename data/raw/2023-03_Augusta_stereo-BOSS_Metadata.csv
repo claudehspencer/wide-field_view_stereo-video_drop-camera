@@ -1,0 +1,74 @@
+CampaignID,Sample,Latitude,Longitude,Date.time,Site,Location,Status,Depth,Successful.count,Successful.length,Observer.count,Observer.length,FishNClips.saved,Panoramic.habitat.image.saved,Downwards.habitat.image.saved,Successful.habitat.panoramic,Successful.habitat.downward,Observer.habitat.panoramic,Observer.habitat.downward,Raw.hdd.number,Con.hdd.number,Maxn.complete.date,Maxn.checker,Length.complete.date,Comment
+2023-03_Augusta_stereo-BOSS,22,-34.45855,115.1168717,9/03/2023 3:45,South-west Corner Marine Park,Augusta,Fished,37.4,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,1st drop synced before but long steam
+2023-03_Augusta_stereo-BOSS,80,-34.46379667,115.1166017,9/03/2023 3:56,South-west Corner Marine Park,Augusta,Fished,45.6,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,41,-34.47626333,115.133335,9/03/2023 4:13,South-west Corner Marine Park,Augusta,Fished,51.7,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,12,-34.476094,115.178727,9/03/2023 4:36,South-west Corner Marine Park,Augusta,Fished,37.1,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,IPad/GPS stopped working. Mark was from the GPS. Used paper sheet. TIPS OVER
+2023-03_Augusta_stereo-BOSS,90,-34.481246,115.481246,9/03/2023 4:29,South-west Corner Marine Park,Augusta,Fished,47,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,"says 47 first, then 90. IPad/GPS stopped working. Mark was from the GPS. Used paper sheet"
+2023-03_Augusta_stereo-BOSS,47,-34.483775,115.2340567,9/03/2023 5:13,South-west Corner Marine Park,Augusta,Fished,46.8,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,86,-34.47359,115.2462067,9/03/2023 5:31,South-west Corner Marine Park,Augusta,Fished,43.9,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,Checked before and two cameras were off. Turn all off and on again and Synced before. 
+2023-03_Augusta_stereo-BOSS,81,-34.516755,115.2834817,9/03/2023 6:26,South-west Corner Marine Park,Augusta,Fished,25.7,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,showed 47 first then 81
+2023-03_Augusta_stereo-BOSS,3,-34.49995,115.2833567,9/03/2023 6:41,South-west Corner Marine Park,Augusta,Fished,41.7,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,15,-34.48613667,115.2987517,9/03/2023 6:59,South-west Corner Marine Park,Augusta,Fished,41.5,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,48,-34.43118667,115.2863683,9/03/2023 7:26,South-west Corner Marine Park,Augusta,Fished,40,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,Synced before
+2023-03_Augusta_stereo-BOSS,63,-34.40644167,115.306315,9/03/2023 7:43,South-west Corner Marine Park,Augusta,Fished,35.4,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,40,-34.39377,115.28136,9/03/2023 8:00,South-west Corner Marine Park,Augusta,Fished,31.2,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,13,-34.50388833,115.2187883,9/03/2023 23:17,South-west Corner Marine Park,Augusta,Fished,48.5,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,66,-34.51623,115.2637083,9/03/2023 23:39,South-west Corner Marine Park,Augusta,Fished,36.8,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,Big steam before
+2023-03_Augusta_stereo-BOSS,31,-34.52109333,115.2489317,9/03/2023 23:51,South-west Corner Marine Park,Augusta,Fished,43.9,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,Light was off when it came up before. Have turned the light back on (001 and 002)
+2023-03_Augusta_stereo-BOSS,23,-34.5211,115.2785833,10/03/2023 0:10,South-west Corner Marine Park,Augusta,Fished,31.6,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,"Light on 001 002 was off again. Replaced battery. Filmed 23, then 51, then 23. Is 23!"
+2023-03_Augusta_stereo-BOSS,51,-34.53882,115.2739317,10/03/2023 0:25,South-west Corner Marine Park,Augusta,Fished,45.4,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,72,-34.55117333,115.3137717,10/03/2023 0:44,South-west Corner Marine Park,Augusta,Fished,42.5,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,"Andy’s coordinates different, switching to first version of points for 60 onwards"
+2023-03_Augusta_stereo-BOSS,60,-34.58880833,115.2789183,10/03/2023 1:10,South-west Corner Marine Park,Augusta,Fished,46.7,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,Light sync before this drop
+2023-03_Augusta_stereo-BOSS,18,-34.59642667,115.264075,10/03/2023 1:23,South-west Corner Marine Park,Augusta,Fished,46.8,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,53,-34.534015,115.2135183,10/03/2023 1:54,South-west Corner Marine Park,Augusta,Fished,46.9,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,78,-34.518735,115.20389,10/03/2023 2:08,South-west Corner Marine Park,Augusta,Fished,49.8,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,30,-34.49374667,115.1691133,10/03/2023 2:27,South-west Corner Marine Park,Augusta,Fished,51.1,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,4,-34.53566833,115.1766233,10/03/2023 2:49,South-west Corner Marine Park,Augusta,Fished,47,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,27,-34.49372667,115.1288333,10/03/2023 3:16,South-west Corner Marine Park,Augusta,Fished,51.7,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,Synced before. But a bit of a break from when the boss came out of water and synced. Synced at 11:03
+2023-03_Augusta_stereo-BOSS,87,-34.50141833,115.1063517,10/03/2023 3:30,South-west Corner Marine Park,Augusta,Fished,52.8,,,,,,Yes,,,,,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,49,-34.51133167,115.1136917,10/03/2023 3:43,South-west Corner Marine Park,Augusta,Fished,49,,,,,,Yes,,,,,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,39,-34.51636333,115.068895,10/03/2023 4:04,South-west Corner Marine Park,Augusta,Fished,47.9,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,21,-34.49892,115.0787517,10/03/2023 4:23,South-west Corner Marine Park,Augusta,Fished,48.4,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,"First showed 52 on whiteboard, then 21"
+2023-03_Augusta_stereo-BOSS,52,-34.49880333,115.0364233,10/03/2023 4:43,South-west Corner Marine Park,Augusta,Fished,48,,,,,,Yes,,Yes,,,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,32,-34.48119833,115.08909,10/03/2023 5:08,South-west Corner Marine Park,Augusta,Fished,52.3,,,,,,Yes,,,,Gidget Mirrabelle ,,,CON1,,,,"Start of video cuts out light sync - cannot top with bottom (20230310-4). Lights sync before this drop. Board showed 64 first, then 32 before drop"
+2023-03_Augusta_stereo-BOSS,64,-34.48876167,115.1039967,10/03/2023 5:22,South-west Corner Marine Park,Augusta,Fished,52.4,,,,,,Yes,,,,,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,24,-34.481045,115.0413083,10/03/2023 5:47,South-west Corner Marine Park,Augusta,Fished,57.5,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,45,-34.46140167,114.9964567,10/03/2023 6:09,South-west Corner Marine Park,Augusta,Fished,51.4,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,28,-34.453761,114.9716755,10/03/2023 6:24,South-west Corner Marine Park,Augusta,Fished,59,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,62,-34.44644167,114.9889733,10/03/2023 6:46,South-west Corner Marine Park,Augusta,Fished,52.2,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,33,-34.42628167,115.0037917,10/03/2023 6:53,South-west Corner Marine Park,Augusta,Fished,47.4,,,,,,Yes,,,,,,,CON1,,,,Light sync before this drop
+2023-03_Augusta_stereo-BOSS,84,-34.43149333,115.061435,10/03/2023 7:17,South-west Corner Marine Park,Augusta,Fished,48.6,,,,,,Yes,,,,,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,68,-34.418925,115.0789033,10/03/2023 7:32,South-west Corner Marine Park,Augusta,Fished,42,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,5,-34.41403833,115.0713383,10/03/2023 7:42,South-west Corner Marine Park,Augusta,Fished,38.4,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,SS-02,-33.96279667,114.7539633,11/03/2023 1:22,South-west Corner Marine Park,Augusta,Fished,62.5,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,SS-04,-33.95900667,114.87134,11/03/2023 1:59,South-west Corner Marine Park,Augusta,Fished,42.6,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,SS-06,-33.98940833,114.9157383,11/03/2023 2:22,South-west Corner Marine Park,Augusta,Fished,48.9,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,SS-07,-33.98009569,114.9633258,11/03/2023 2:47,South-west Corner Marine Park,Augusta,Fished,33,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,Dolphins on surface
+2023-03_Augusta_stereo-BOSS,SS-10,-34.13006333,114.9263633,11/03/2023 4:07,South-west Corner Marine Park,Augusta,No-take,35.7,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,Light sync before this drop. Big steam then board shown ~5 mins before drop
+2023-03_Augusta_stereo-BOSS,SS-14,-34.258575,114.8260833,11/03/2023 5:18,South-west Corner Marine Park,Augusta,Fished,72.8,,,,,,,,,,N/A,,,,,,,"Cam 003 turned off (low charge), all cams taken out to restart and resync "
+2023-03_Augusta_stereo-BOSS,SS-11,-34.21896667,114.9226417,11/03/2023 6:17,South-west Corner Marine Park,Augusta,Fished,45,,,,,,,,,,N/A,,,,,,,
+2023-03_Augusta_stereo-BOSS,SS-09,-34.17969167,114.994765,11/03/2023 6:57,South-west Corner Marine Park,Augusta,Fished,23.2,,,,,,,,,,N/A,,,,,,,North light was off upon retrieval
+2023-03_Augusta_stereo-BOSS,36,-34.34385667,114.9239967,11/03/2023 23:11,South-west Corner Marine Park,Augusta,Fished,50.5,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,Light sync before this drop
+2023-03_Augusta_stereo-BOSS,16,-34.36130833,114.894275,11/03/2023 23:33,South-west Corner Marine Park,Augusta,Fished,62.8,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,76,-34.36871333,114.9385917,11/03/2023 23:55,South-west Corner Marine Park,Augusta,Fished,51,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,SS-15,-34.39046833,114.8787583,12/03/2023 0:21,South-west Corner Marine Park,Augusta,Fished,93.1,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,82,-34.40377833,114.9011783,12/03/2023 0:38,South-west Corner Marine Park,Augusta,Fished,80.9,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,10,-34.43617833,114.9139583,12/03/2023 1:03,South-west Corner Marine Park,Augusta,Fished,88.7,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,Light sync before this drop
+2023-03_Augusta_stereo-BOSS,29,-34.45355667,114.904035,12/03/2023 1:20,South-west Corner Marine Park,Augusta,Fished,115,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,61,-34.46622333,114.9363667,12/03/2023 1:39,South-west Corner Marine Park,Augusta,Fished,87.4,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,9,-34.491145,114.9415467,12/03/2023 1:55,South-west Corner Marine Park,Augusta,Fished,99.7,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,SS-16,-34.50449,114.995255,12/03/2023 2:17,South-west Corner Marine Park,Augusta,Fished,69,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,34,-34.50869333,114.9515067,12/03/2023 2:41,South-west Corner Marine Park,Augusta,Fished,105,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,14,-34.52622114,114.9813493,12/03/2023 2:59,South-west Corner Marine Park,Augusta,Fished,89.4,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,2,-34.55107167,114.9788883,12/03/2023 3:16,South-west Corner Marine Park,Augusta,Fished,118,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,37,-34.57127333,115.0313383,12/03/2023 3:39,South-west Corner Marine Park,Augusta,Fished,89.1,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,85,-34.59619333,115.0335633,12/03/2023 4:02,South-west Corner Marine Park,Augusta,Fished,110,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,57,-34.60115167,115.0810467,12/03/2023 4:26,South-west Corner Marine Park,Augusta,Fished,75.4,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,Light sync before this drop
+2023-03_Augusta_stereo-BOSS,55,-34.56129,115.133955,12/03/2023 4:50,South-west Corner Marine Park,Augusta,Fished,47,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,69,-34.56616167,115.06389,12/03/2023 5:17,South-west Corner Marine Park,Augusta,Fished,66.4,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,26,-34.53635167,115.0486883,12/03/2023 5:33,South-west Corner Marine Park,Augusta,Fished,52.8,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,11,-34.51879432,115.021466,12/03/2023 5:53,South-west Corner Marine Park,Augusta,Fished,55.9,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,Light sync before this drop
+2023-03_Augusta_stereo-BOSS,83,-34.48614,115.00873,12/03/2023 6:10,South-west Corner Marine Park,Augusta,Fished,51.5,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,38,-34.43377167,114.9637317,12/03/2023 6:38,South-west Corner Marine Park,Augusta,Fished,55,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,54,-34.41128333,114.9487283,12/03/2023 7:03,South-west Corner Marine Park,Augusta,Fished,55.7,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
+2023-03_Augusta_stereo-BOSS,70,-34.40141833,115.0389567,12/03/2023 7:24,South-west Corner Marine Park,Augusta,Fished,47.7,,,,,,Yes,,Yes,,Molly Gerrans,,,CON1,,,,
